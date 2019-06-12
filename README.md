@@ -16,10 +16,12 @@ Inspiron 15 7000 Series - 7580 (i7-8565U)
 > O Path DSDT que usei foi: `Hpet Fix` e `IRQ Fix`. Também removi os fixes da config.plist `Fix ipic` `Fix hpet` `Fix tmr` `Fix rtc`      
 
   * Intel 620UHD 
+  
     Utilizei o hacktoshtool para gerar uma confg.plist que forçou o reconhecimento correto. Me base-ei neste link para fazer funcionar. Eu selecionei meu processador como `coffee lake` já que não tem `whiskey lake`.    
     http://hackintoshbrasil.com/forum/viewtopic.php?f=22&t=88&sid=67d4338f2f0211a864a1261dc24514a4
 
   * Intel 9260 Wireless Driver (Don't Work) 
+  
     Estou usando um TPLink823N-V3 com o aplicativo de conexão da propria TPLink.
     existe um port do driver linux para o mac, ainda não esta acabado, mas se alguém que programe quiser dar uma ajuda, aqui tá o link do meu fork https://github.com/jfneto/IntelWifi
     
