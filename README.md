@@ -21,9 +21,8 @@ Inspiron 15 7000 Series - 7580 (i7-8565U)
     http://hackintoshbrasil.com/forum/viewtopic.php?f=22&t=88&sid=67d4338f2f0211a864a1261dc24514a4
 
   * Intel 9260 Wireless Driver (Don't Work) 
-  
-    Estou usando um TPLink823N-V3 com o aplicativo de conexão da propria TPLink.
-    existe um port do driver linux para o mac, ainda não esta acabado, mas se alguém que programe quiser dar uma ajuda, aqui tá o link do meu fork https://github.com/jfneto/IntelWifi
+    * Estou usando um TPLink823N-V3 com o aplicativo de conexão da propria TPLink.
+    * Existe um port do driver linux para o mac, ainda não esta acabado, mas se alguém que programe quiser dar uma ajuda, aqui tá o link do meu fork https://github.com/jfneto/IntelWifi
     
   * NVIDIA GeForce MX150 2GB GDDR5 (Don't Work)
      
