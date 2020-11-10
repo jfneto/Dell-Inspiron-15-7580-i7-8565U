@@ -4,7 +4,7 @@ Inspiron 15 7000 Series - 7580 (i7-8565U)
 ## Details - Inspiron 15 7000 Series - 7580
 
   * 8th Generation Intel Core i7-8565U Processor
-  * SSDR 128 + HD 1T
+  * SSDR 128 + HD 1T (NVMe 512gb)
   * 16GB (2x8GB) 2666MHz DDR4 Memory
   * 802.11ac 2x2 WiFi and Bluetooth (????)
   * Audio Realtech 3254 (ALC295)
